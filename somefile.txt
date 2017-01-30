@@ -1,0 +1,5 @@
+This is the homework second step:
+-made a repo on git hub
+-cloned to desktop
+-made a file in it
+-pushed it to github
